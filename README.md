@@ -1,4 +1,4 @@
-# Workflo-Morpho-Histo
+# Workflow-Morpho-Histo
 Workflow to extract morphological features from histological slides. The steps are the following ones :
   1. Patches extraction from WSI
   2. Patches normalization
