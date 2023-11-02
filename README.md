@@ -15,6 +15,7 @@ We thank the developers of the following Github accounts :
   5. https://pyradiomics.readthedocs.io/en/latest/index.html
   7. https://github.com/fbertran/plsRcox.git
   9. https://github.com/jamesdolezal/slideflow.git
+  10. https://github.com/jacobgil/confidenceinterval.git
 
   Plot :
   <ul>
