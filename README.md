@@ -8,6 +8,7 @@ Workflow to extract morphological features from histological slides. The steps a
   6. Creation of the final dataset
   7. PlsRCox (survival analysis)
   8. PCNSL Classification into 4 subtypes
+  9. Binary classfification with Slideflow
 
 We thank the developers of the following Github accounts :
   1. https://nbviewer.org/github/afiliot/TPDUIA/blob/main/TPDUIA/2022/whole_slide_images.ipynb
