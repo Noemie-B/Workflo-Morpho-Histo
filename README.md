@@ -15,5 +15,8 @@ We thank the developers of the following Github accounts :
   5. https://pyradiomics.readthedocs.io/en/latest/index.html
 
   Plot :
-  a. https://krassowski.github.io/complex-upset/articles/Examples_Python.html 
-  b. https://github.com/DingWB/PyComplexHeatmap.git
+  <ul>
+  <li>[First item](https://krassowski.github.io/complex-upset/articles/Examples_Python.html )</li>
+  <li>https://github.com/DingWB/PyComplexHeatmap.git</li>
+</ul>
+
