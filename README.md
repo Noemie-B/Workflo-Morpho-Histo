@@ -13,6 +13,8 @@ We thank the developers of the following Github accounts :
   1. https://nbviewer.org/github/afiliot/TPDUIA/blob/main/TPDUIA/2022/whole_slide_images.ipynb
   3. https://github.com/vqdang/hover_net
   5. https://pyradiomics.readthedocs.io/en/latest/index.html
+  7. https://github.com/fbertran/plsRcox.git
+  9. https://github.com/jamesdolezal/slideflow.git
 
   Plot :
   <ul>
