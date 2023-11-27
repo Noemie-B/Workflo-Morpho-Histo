@@ -1,6 +1,6 @@
 # Workflow-Morpho-Histo 
 Code used in the article :
-### Artificial intelligence to classify and predict the outcome of primary CNS and nodal large B-cell lymphomas 
+##### Artificial intelligence to classify and predict the outcome of primary CNS and nodal large B-cell lymphomas 
 
 Workflow to extract morphological features from histological slides. The steps are the following ones :
   1. Patches extraction from WSI
